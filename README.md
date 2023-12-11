@@ -1,6 +1,7 @@
 # chatGPT-Chatbot
 
 ChatGPT chatbot using Node.js
+Traversy Media Tutorial
 
 ## Initial setup
 
